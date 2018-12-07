@@ -1,0 +1,16 @@
+{
+	"datecreated": "2017-02-27T14:10:00.000Z",
+	"dateupdated": "2017-08-02T07:58:01.000Z",
+	"name": "j-RepeaterGroup",
+	"tags": [
+		"jcomponent"
+	],
+	"color": "transparent",
+	"version": 1,
+	"responsive": true,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

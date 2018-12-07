@@ -1,0 +1,16 @@
+{
+	"datecreated": "2016-02-16T05:35:33.783Z",
+	"dateupdated": "2017-11-09T18:55:01.000Z",
+	"name": "j-Disable",
+	"tags": [
+		"jcomponent"
+	],
+	"color": "transparent",
+	"version": 1,
+	"responsive": false,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

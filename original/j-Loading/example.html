@@ -1,0 +1,24 @@
+<style>
+	body { background-color: #F0F0F0; }
+</style>
+
+<div data-jc="loading" class="hidden"></div>
+
+<div>Lorem ipsum</div>
+<div>Lorem ipsum</div>
+<div>Lorem ipsum</div>
+<div>Lorem ipsum</div>
+<div>Lorem ipsum</div>
+<div>Lorem ipsum</div>
+<div>Lorem ipsum</div>
+
+<script>
+	var is = false;
+	setInterval(function() {
+		is = !is;
+		if (is)
+			SETTER('loading', 'show');
+		else
+			SETTER('loading', 'hide', 1000);
+	}, 5000);
+</script>

@@ -1,0 +1,18 @@
+{
+	"datecreated": "2015-07-30T06:33:58.000Z",
+	"dateupdated": "2017-11-14T13:34:00.000Z",
+	"name": "HTML 5 template",
+	"tags": [
+		"template",
+		"html5",
+		"empty"
+	],
+	"color": "transparent",
+	"version": 6,
+	"responsive": true,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

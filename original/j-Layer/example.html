@@ -1,0 +1,34 @@
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur hic quod, asperiores dicta.</div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur hic quod, asperiores dicta.</div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur hic quod, asperiores dicta.</div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur hic quod, asperiores dicta.</div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur hic quod, asperiores dicta.</div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur hic quod, asperiores dicta.</div>
+
+<div data-jc="layer__common.layer__if:layerA;title:Title for layer A" class="hidden">
+	<div class="ui-layer-body">
+		Layer A
+	</div>
+</div>
+
+<div data-jc="layer__common.layer__if:layerB;title:Title for layer B" class="hidden">
+	<div class="ui-layer-body">
+		Layer B
+	</div>
+</div>
+
+<div data-jc="layer__common.layer__if:layerC;title:Title for layer C" class="hidden">
+	<div class="ui-layer-body">
+		Layer C
+	</div>
+</div>
+
+<script>
+	var common = {};
+
+	// Show the layer
+	common.layer = [];
+	PUSH('common.layer', 'layerA', 1000);
+	PUSH('common.layer', 'layerB', 3000);
+	PUSH('common.layer', 'layerC', 6000);
+</script>

@@ -1,0 +1,18 @@
+{
+	"datecreated": "2015-08-18T10:13:23.000Z",
+	"dateupdated": "2018-12-05T20:50:00.000Z",
+	"name": "j-Crop",
+	"tags": [
+		"crop",
+		"cropper",
+		"jcomponent"
+	],
+	"color": "transparent",
+	"version": 1,
+	"responsive": false,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

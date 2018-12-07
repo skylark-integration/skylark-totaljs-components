@@ -1,0 +1,20 @@
+.ui-notify-container * { box-sizing: border-box; }
+.ui-notify-container { position: fixed; width: 300px; z-index: 100; text-align: center; }
+.ui-notify { background-color: white; box-shadow: 0 3px 20px rgba(0,0,0,0.2); border-radius: 4px; font-size: 14px; padding: 0; margin-top: 20px; transition: 0.5s all; color: white; cursor: default; }
+.ui-notify-1 { background: #8CC152; }
+.ui-notify-2 { background: #BD3835; }
+.ui-notify-3 { background: #3BAFDA; }
+.ui-notify-icon { float: left; font-size: 34px; padding: 8px 0 0 0; width: 60px; text-align: center; height: 60px; background-color: white; color: #A0A0A0; border-radius: 4px 0 0 4px; }
+.ui-notify-message { margin: 1px 0 0 60px; line-height: 16px; height: 60px; display: table-cell; width: 100%; vertical-align: middle; padding: 0 10px; text-shadow: 1px 1px 1px rgba(0,0,0,0.1); text-align: left; }
+.ui-notify-hide { opacity: 0; margin-top: -50px; }
+
+.ui-notify-container-top { left: 50%; margin-left: -150px; top: 0; }
+.ui-notify-container-top-left { left: 25px; top: 0; }
+.ui-notify-container-top-right { right: 25px; top: 0; }
+.ui-notify-container-bottom { bottom: 30px; left: 50%; margin-left: -150px; }
+.ui-notify-container-bottom-left { bottom: 30px; left: 25px; }
+.ui-notify-container-bottom-right { bottom: 30px; right: 25px; }
+
+@media(max-width: 767px) {
+	.ui-notify-container { left: 20px; right: 20px; margin-left: 0; width: auto; }
+}

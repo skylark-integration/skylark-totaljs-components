@@ -1,0 +1,17 @@
+{
+	"datecreated": "2015-08-05T05:15:41.000Z",
+	"dateupdated": "2017-11-09T19:31:01.000Z",
+	"name": "j-Validation",
+	"tags": [
+		"jcomponent",
+		"validator"
+	],
+	"color": "transparent",
+	"version": 1,
+	"responsive": false,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

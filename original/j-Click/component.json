@@ -1,0 +1,16 @@
+{
+	"datecreated": "2016-02-19T13:44:37.557Z",
+	"dateupdated": "2017-08-01T15:54:03.000Z",
+	"name": "j-Click",
+	"tags": [
+		"jcomponent"
+	],
+	"color": "transparent",
+	"version": 1,
+	"responsive": false,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

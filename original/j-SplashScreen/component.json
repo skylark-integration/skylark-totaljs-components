@@ -1,0 +1,16 @@
+{
+	"datecreated": "2017-06-27T13:13:30.000Z",
+	"dateupdated": "2017-08-01T08:45:00.000Z",
+	"name": "j-SplashScreen",
+	"tags": [
+		"jcomponent"
+	],
+	"color": "white",
+	"version": 1,
+	"responsive": true,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+	"datecreated": "2015-08-05T05:36:06.000Z",
+	"dateupdated": "2017-08-28T22:39:00.000Z",
+	"name": "j-Template",
+	"tags": [
+		"jcomponent",
+		"templates"
+	],
+	"color": "transparent",
+	"version": 1,
+	"responsive": true,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}

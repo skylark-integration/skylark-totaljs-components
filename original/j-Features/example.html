@@ -1,0 +1,18 @@
+<style>
+	body { background-color: #F0F0F0; }
+</style>
+
+<div data-jc="features__null__placeholder:Search ..."></div>
+
+<div class="container">
+	<a href="javascript:features()">Show features</a>
+</div>
+
+<script>
+	function features() {
+		SETTER('features', 'show', [{ name: 'Dashboard' }, { name: 'Invoices' }, { name: 'Orders' }, { name: 'Products' }, { name: 'Pages' }, { name: 'Notes' }, { name: 'Users', icon: 'user' }, { name: 'Settings' }], function(value) {
+			console.log('CLICK', value);
+		});
+	}
+	setTimeout(features, 500);
+</script>

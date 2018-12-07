@@ -1,0 +1,17 @@
+{
+	"datecreated": "2016-05-10T17:09:20.420Z",
+	"dateupdated": "2018-11-08T19:41:00.000Z",
+	"name": "j-Checkboxlist",
+	"tags": [
+		"jcomponent",
+		"bootstrap"
+	],
+	"color": "transparent",
+	"version": 1,
+	"responsive": true,
+	"picture": "picture.jpg",
+	"dependencies": "",
+	"author": "Peter Širka",
+	"email": "petersirka@gmail.com",
+	"license": "MIT"
+}
